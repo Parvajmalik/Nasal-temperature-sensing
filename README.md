@@ -1,1 +1,2 @@
 # Nasal-temperature-sensing
+I am developing a wireless breath monitoring device that uses the BME280 environmental sensor to detect inhalation and exhalation patterns by analyzing subtle changes in pressure and humidity near the nose or mouth. The data is processed using an ESP32 microcontroller, making the device fully wireless and capable of sending real-time data to the cloud for remote analysis and health monitoring.
