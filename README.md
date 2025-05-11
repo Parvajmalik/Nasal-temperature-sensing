@@ -3,7 +3,7 @@ I am developing a wireless breath monitoring device that uses the BME280 environ
 
 ### I am handling the firmware development, PCB design, and overall electronic system integration of the device. This includes:
 
-Sensor interfacing and signal processing
-WiFi-enabled data transmission
-Cloud integration (e.g., Firebase, MQTT, or custom APIs)
-Power optimization and embedded coding
+Sensor interfacing and signal processing.
+WiFi-enabled data transmission.
+Cloud integration (e.g., Firebase, MQTT, or custom APIs).
+Power optimization and embedded coding.
